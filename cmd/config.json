@@ -1,0 +1,8 @@
+{
+    "rss":[
+       "https://stoneforest.ru/feed/",
+       "https://www.darkside.ru/rss/",
+       "https://habr.com/ru/rss/best/daily/?fl=ru"
+    ],
+    "request_period": 5
+ }
